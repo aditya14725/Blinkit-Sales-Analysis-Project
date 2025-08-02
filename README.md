@@ -1,4 +1,4 @@
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 # Blinkit Sales Analysis 
 
 This project presents a comprehensive sales analysis dashboard for Blinkit, developed using Power BI. The dashboard visualizes key sales metrics and trends across different outlets, products, and regions, enabling data-driven decisions to optimize performance and customer satisfaction.
