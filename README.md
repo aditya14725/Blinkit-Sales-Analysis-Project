@@ -49,6 +49,9 @@ Power Query
 
 Excel/CSV Data
 
+# 📊 Dashboard Snapshots
+
+
 # 🧠 Insights & Observations
 The dashboard uncovered strong overall sales growth, peak item types (fruits, snacks), and highest performance in medium-sized outlets in Tier 3 cities.
 
