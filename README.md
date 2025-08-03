@@ -49,7 +49,8 @@ Power Query
 
 Excel/CSV Data
 
-# 📊 Dashboard Snapshots
+# 📊 Dashboard Snapshot
+<img width="1407" height="777" alt="Image" src="https://github.com/user-attachments/assets/c8333ea4-d01b-4786-be60-615e8cdf5a92" />
 
 
 # 🧠 Insights & Observations
